@@ -27,6 +27,9 @@
     <Setting Name="version" Value="3" />
     <Setting Name="hassuccessfulimport" Value="True" />
   </Settings>
-  <OpenDocuments />
+  <OpenDocuments>
+    <OpenDocument Path="smali\com\m0narx\tweaks\main.smali" Offset="24418.858333333337" />
+    <OpenDocument Path="smali\com\m0narx\tweaks\Donation.smali" Offset="19471.090000000004" />
+  </OpenDocuments>
   <MarkedLines />
 </VirtuousTenProject>
