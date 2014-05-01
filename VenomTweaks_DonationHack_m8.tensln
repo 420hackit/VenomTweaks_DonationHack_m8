@@ -3,6 +3,7 @@
   <Projects>
     <Project Value="VenomTweaks1-3-1\VenomTweaks1-3-1.apkproject" />
     <Project Value="VenomTweaks1-4-0\VenomTweaks1-4-0.apkproject" />
+    <Project Value="VenomTweaks1-5-0\VenomTweaks1-5-0.apkproject" />
   </Projects>
   <Settings>
     <Setting Name="solutionname" Value="VenomTweaks_DonationHack_m8" />
